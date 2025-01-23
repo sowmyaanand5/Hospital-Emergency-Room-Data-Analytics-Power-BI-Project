@@ -8,15 +8,13 @@ The Hospital Emergency Room Analytics Dashboard provides a clear view of emergen
 
 1. Number of Patients: Monthly and cumulative patient counts are tracked.
 
-2. Admission Status: Split between admitted and not admitted.
+2. Admission Status: Status of both admitted and not admitted.
 
-3. Patients Visits: The dashboard tracks the number of patients visiting the emergency room.
+3. Patients Visits: The dashboard tracks the number of patients visiting the hospital.
 
 4. Patient Referrals:Referrals to specialists or other departments are tracked.
 
-5. Admission Status:Tracks how many patients are admitted or sent home.The near parity between these groups highlights the balanced usage of emergency resources.
-
-6. Patient Details:The dashboard provides detailed patients information such as Patient ID,Name, Gender,Age, Admission Date, Status and Departmental Referrals.
+5. Patient Details:The dashboard provides detailed patients information such as Patient ID, Name, gender, age, Admission Date, status and Departmental Referrals.
 
 ## Key Features
 
@@ -36,9 +34,6 @@ The Hospital Emergency Room Analytics Dashboard provides a clear view of emergen
    
     •	Clear breakdowns of patient referrals and department activity.
   	
-6.	Demographic Insights:
-   
-    •	Age and gender visualizations provide an overview of the patient base.
 
 ## Conclusion
 
