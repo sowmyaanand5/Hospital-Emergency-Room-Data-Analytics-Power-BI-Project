@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Power-BI-Project
+# Hospital-Emergency-Room-Data-Analytics-Power-BI-Project
 
 ## Project Overview
 
