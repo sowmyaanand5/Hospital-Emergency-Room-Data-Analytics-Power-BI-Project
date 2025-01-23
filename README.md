@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Hospital Emergency Room Analytics Dashboard provides a clear view of emergency room operations, such as patient numbers, waiting times, satisfaction scores, and admission statuses. It helps the hospital identify trends and improve services.
+The Hospital Emergency Room Analytics Dashboard provides a clear view of emergency room operations, such as patient informations,satisfaction scores, admission details such as admission statuses. It helps the hospital identify trends and improve services.
 
 ## Data
 
