@@ -12,9 +12,9 @@ The Hospital Emergency Room Analytics Dashboard provides a clear view of emergen
 
 3. Patients Visits: The dashboard tracks the number of patients visiting the hospital.
 
-4. Patient Referrals:Referrals to specialists or other departments are tracked.
+4. Patient Referrals: Referrals to specialists or other departments are tracked.
 
-5. Patient Details:The dashboard provides detailed patients information such as Patient ID, Name, gender, age, Admission Date, status and Departmental Referrals.
+5. Patient Details: The dashboard provides detailed patients information such as Patient ID, Name, gender, age, Admission Date, status and Departmental Referrals.
 
 ## Key Features
 
